@@ -2,233 +2,269 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rock on Naku Berneri Portfolio</title>
-    <link>https://example.com/tags/rock/</link>
+    <link>https://nakuberneri.github.io/tags/rock/</link>
     <description>Recent content in rock on Naku Berneri Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Sep 2019 16:13:26 +0000</lastBuildDate><atom:link href="https://example.com/tags/rock/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Sep 2019 16:13:26 +0000</lastBuildDate><atom:link href="https://nakuberneri.github.io/tags/rock/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>El Mal Humano single mix and mastering</title>
-      <link>https://example.com/posts/rock_malhumano/</link>
+      <link>https://nakuberneri.github.io/posts/rock_malhumano/</link>
       <pubDate>Mon, 23 Sep 2019 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_malhumano/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_malhumano/</guid>
       <description>&lt;p&gt;Single mix and mastering for the rock band El Mal Humano&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Daniel Melero singles production</title>
-      <link>https://example.com/posts/elec_melero/</link>
+      <link>https://nakuberneri.github.io/posts/elec_melero/</link>
       <pubDate>Tue, 17 Sep 2019 12:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/elec_melero/</guid>
+      <guid>https://nakuberneri.github.io/posts/elec_melero/</guid>
       <description>&lt;p&gt;Two singles production, mix and mastering for Daniel Melero on 2020&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Anguil 5 track EP production, mix and mastering</title>
-      <link>https://example.com/posts/rock_anguil/</link>
+      <link>https://nakuberneri.github.io/posts/rock_anguil/</link>
       <pubDate>Fri, 13 Sep 2019 14:33:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_anguil/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_anguil/</guid>
       <description>&lt;p&gt;Full 5 track EP production for Anguil. I have recorded, mixed and mastered all the tracks.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Nicola Carrara 11 track album mastering</title>
+      <link>https://nakuberneri.github.io/posts/elec_domatornados/</link>
+      <pubDate>Mon, 20 May 2019 16:13:26 +0000</pubDate>
+      
+      <guid>https://nakuberneri.github.io/posts/elec_domatornados/</guid>
+      <description>&lt;p&gt;Full 11 track album mastering and mixing coaching for Nicola Carrara. You can hear &lt;a href=&#34;https://nicolacarrara.bandcamp.com/album/cuare-a-ntena&#34;&gt;the album here&lt;/a&gt; or you can just click in the image :)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Innersun Full Album Production</title>
-      <link>https://example.com/posts/punk_innersun/</link>
+      <link>https://nakuberneri.github.io/posts/punk_innersun/</link>
       <pubDate>Fri, 02 Nov 2018 14:33:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/punk_innersun/</guid>
+      <guid>https://nakuberneri.github.io/posts/punk_innersun/</guid>
       <description>&lt;p&gt;Full album production for Innersun. I have recorded, mixed and mastered the full album.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pushit 7 track full album production</title>
-      <link>https://example.com/posts/rock_pushit2/</link>
+      <link>https://nakuberneri.github.io/posts/rock_pushit2/</link>
       <pubDate>Tue, 23 Oct 2018 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_pushit2/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_pushit2/</guid>
       <description>&lt;p&gt;Full album production for Pushit. Produced, mixed and mastered by me&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>NOFT Single Production</title>
-      <link>https://example.com/posts/punk_noft/</link>
+      <link>https://nakuberneri.github.io/posts/punk_noft/</link>
       <pubDate>Tue, 26 Jun 2018 14:33:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/punk_noft/</guid>
+      <guid>https://nakuberneri.github.io/posts/punk_noft/</guid>
       <description>&lt;p&gt;Full single production for NOFT. I have recorded, mixed and mastered the track.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rey Manta EP recording, mix and mastering</title>
-      <link>https://example.com/posts/rock_reymanta/</link>
+      <link>https://nakuberneri.github.io/posts/rock_reymanta/</link>
       <pubDate>Sat, 23 Jun 2018 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_reymanta/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_reymanta/</guid>
       <description>&lt;p&gt;Some of the tracks of the Rey Manta EP that i produced, recorded and mixed&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Tormentos, surf rock 12 track album</title>
-      <link>https://example.com/posts/rock_tormentos/</link>
+      <link>https://nakuberneri.github.io/posts/rock_tormentos/</link>
       <pubDate>Mon, 27 Nov 2017 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_tormentos/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_tormentos/</guid>
       <description>&lt;p&gt;Twelve track surf rock album recorded in one take, full analog process.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Aminowana, reggae full album recording, mix and mastering</title>
-      <link>https://example.com/posts/reggae_aminowana/</link>
+      <link>https://nakuberneri.github.io/posts/reggae_aminowana/</link>
       <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/reggae_aminowana/</guid>
+      <guid>https://nakuberneri.github.io/posts/reggae_aminowana/</guid>
       <description>&lt;p&gt;Album recording, mixing and mastering for Aminowana reggae band. You can hear the album &lt;a href=&#34;https://open.spotify.com/album/5aJRK3KSzSg17FrxGEycQm&#34;&gt;here&lt;/a&gt; or clicking in the image&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Bratva single mix and mastering</title>
-      <link>https://example.com/posts/rock_bratva/</link>
+      <link>https://nakuberneri.github.io/posts/rock_bratva/</link>
       <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_bratva/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_bratva/</guid>
       <description>&lt;p&gt;Single mix and mastering for the rock band Bratva&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Maderfanker 5 track EP</title>
-      <link>https://example.com/posts/rock_maderfanker/</link>
+      <link>https://nakuberneri.github.io/posts/rock_maderfanker/</link>
       <pubDate>Thu, 23 Mar 2017 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_maderfanker/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_maderfanker/</guid>
       <description>&lt;p&gt;Five track production, recording and mixing for Maderfanker&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Las Cosas Invisibles 12 track album</title>
-      <link>https://example.com/posts/rock_lascosasinvis/</link>
+      <link>https://nakuberneri.github.io/posts/rock_lascosasinvis/</link>
       <pubDate>Fri, 14 Oct 2016 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_lascosasinvis/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_lascosasinvis/</guid>
       <description>&lt;p&gt;Full album recording, mixing and mastering. Full analog process.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Francisca y los Exploradores single mix and mastering</title>
-      <link>https://example.com/posts/rock_francisaca/</link>
+      <link>https://nakuberneri.github.io/posts/rock_francisaca/</link>
       <pubDate>Thu, 14 Jul 2016 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_francisaca/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_francisaca/</guid>
       <description>&lt;p&gt;Single recording mix and mastering for the indie rock band Francisaca y los Exploradores&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Daniel Melero album recording</title>
-      <link>https://example.com/posts/rock_melero/</link>
+      <link>https://nakuberneri.github.io/posts/rock_melero/</link>
       <pubDate>Fri, 03 Jun 2016 12:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_melero/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_melero/</guid>
       <description>&lt;p&gt;Album recording for Daniel Melero&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>No Te Mates EP full production</title>
-      <link>https://example.com/posts/rock_notemates/</link>
+      <link>https://nakuberneri.github.io/posts/rock_notemates/</link>
       <pubDate>Fri, 03 Jun 2016 12:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_notemates/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_notemates/</guid>
       <description>&lt;p&gt;Ep recording, mixing and mastering for No Te Mates&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Orkesta Popular San Bomba single release</title>
-      <link>https://example.com/posts/folk_sanbomba/</link>
+      <link>https://nakuberneri.github.io/posts/folk_sanbomba/</link>
       <pubDate>Thu, 26 May 2016 17:33:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/folk_sanbomba/</guid>
+      <guid>https://nakuberneri.github.io/posts/folk_sanbomba/</guid>
       <description>&lt;p&gt;Recording, mixing and mastering for the Orkesta Popular San Bomba&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Jeites single mix</title>
-      <link>https://example.com/posts/folk_jeites/</link>
+      <title>Cvlos single mix and mastering</title>
+      <link>https://nakuberneri.github.io/posts/punk_cvlos/</link>
       <pubDate>Wed, 11 Nov 2015 16:33:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/folk_jeites/</guid>
-      <description>&lt;p&gt;Recording, mixing and mastering for Jeites single releas&lt;/p&gt;</description>
+      <guid>https://nakuberneri.github.io/posts/punk_cvlos/</guid>
+      <description>&lt;p&gt;Mixing and mastering for Cvlos single release&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jeites single mix</title>
+      <link>https://nakuberneri.github.io/posts/folk_jeites/</link>
+      <pubDate>Wed, 11 Nov 2015 16:33:26 +0000</pubDate>
+      
+      <guid>https://nakuberneri.github.io/posts/folk_jeites/</guid>
+      <description>&lt;p&gt;Recording, mixing and mastering for Jeites single release&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>BAK 9 track album recording and mixing</title>
-      <link>https://example.com/posts/rock_bak/</link>
+      <link>https://nakuberneri.github.io/posts/rock_bak/</link>
       <pubDate>Thu, 01 Oct 2015 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_bak/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_bak/</guid>
       <description>&lt;p&gt;Nine track album recording and analog for the rock band Buenos Aires Karma&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pushit full album production</title>
-      <link>https://example.com/posts/rock_pushit/</link>
+      <link>https://nakuberneri.github.io/posts/rock_pushit/</link>
       <pubDate>Sun, 23 Aug 2015 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_pushit/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_pushit/</guid>
       <description>&lt;p&gt;Full album production for Pushit rockband. Produced, mixed and mastered by me&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Nique Legarreta full album</title>
-      <link>https://example.com/posts/rock_nique/</link>
+      <link>https://nakuberneri.github.io/posts/rock_nique/</link>
       <pubDate>Sun, 16 Aug 2015 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_nique/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_nique/</guid>
       <description>&lt;p&gt;Full album recording, mixing and mastering for Enrique Legarreta y los Leones de la Suerte&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Sobremesa con el Dos // album mix and mastering</title>
-      <link>https://example.com/posts/rock_sobremesa/</link>
+      <link>https://nakuberneri.github.io/posts/rock_sobremesa/</link>
       <pubDate>Thu, 12 Jun 2014 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_sobremesa/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_sobremesa/</guid>
       <description>&lt;p&gt;LP mixing and mastering on the Sobremesa con el Dos album for Geiser Label&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>NQC 12 track LP production, mix and mastering</title>
-      <link>https://example.com/posts/punk_nqc_erqhli/</link>
+      <link>https://nakuberneri.github.io/posts/punk_nqc_erqhli/</link>
       <pubDate>Sun, 26 Aug 2012 12:33:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/punk_nqc_erqhli/</guid>
+      <guid>https://nakuberneri.github.io/posts/punk_nqc_erqhli/</guid>
       <description>&lt;p&gt;Full 12 track LP production for NQC. I have recorded, mixed and mastered all the tracks.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Solaris 11 track album full production</title>
+      <link>https://nakuberneri.github.io/posts/pop_solaris/</link>
+      <pubDate>Sun, 01 May 2011 09:33:26 +0000</pubDate>
+      
+      <guid>https://nakuberneri.github.io/posts/pop_solaris/</guid>
+      <description>&lt;p&gt;Eleven track recording, mixing and mastering for Solaris band&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>NQC 10 track LP mix and mastering</title>
-      <link>https://example.com/posts/punk_nqc_1ero/</link>
+      <link>https://nakuberneri.github.io/posts/punk_nqc_1ero/</link>
       <pubDate>Sun, 05 Dec 2010 12:33:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/punk_nqc_1ero/</guid>
+      <guid>https://nakuberneri.github.io/posts/punk_nqc_1ero/</guid>
       <description>&lt;p&gt;Full 10 track LP mix and master for punk rock band NQC.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Venecianos full 10 track album production</title>
-      <link>https://example.com/posts/rock_venecianos1/</link>
+      <link>https://nakuberneri.github.io/posts/rock_venecianos1/</link>
       <pubDate>Wed, 10 Nov 2010 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/rock_venecianos1/</guid>
+      <guid>https://nakuberneri.github.io/posts/rock_venecianos1/</guid>
       <description>&lt;p&gt;Ten track full album recording, mixing and mastering for Venecianos&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>Los Violadores full album production</title>
+      <link>https://nakuberneri.github.io/posts/punk_violadores/</link>
+      <pubDate>Sun, 02 Aug 2009 07:12:16 +0000</pubDate>
+      
+      <guid>https://nakuberneri.github.io/posts/punk_violadores/</guid>
+      <description>&lt;p&gt;Full 13 track album production for Los Violadores. I have recorded, mixed and mastered the full album.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Negusa, single mix and mastering</title>
-      <link>https://example.com/posts/reggae_negusa/</link>
+      <link>https://nakuberneri.github.io/posts/reggae_negusa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/posts/reggae_negusa/</guid>
+      <guid>https://nakuberneri.github.io/posts/reggae_negusa/</guid>
       <description>&lt;p&gt;Single mix and mastering for the reggae band Negusa. You can hear the album &lt;a href=&#34;https://www.youtube.com/watch?v=PPTj3EEhY_Y&#34;&gt;here&lt;/a&gt; or clicking in the image&lt;/p&gt;</description>
     </item>
     

@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jazz on Naku Berneri Portfolio</title>
-    <link>https://example.com/categories/jazz/</link>
+    <link>https://nakuberneri.github.io/categories/jazz/</link>
     <description>Recent content in Jazz on Naku Berneri Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2020 12:13:26 +0000</lastBuildDate><atom:link href="https://example.com/categories/jazz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Jul 2020 12:13:26 +0000</lastBuildDate><atom:link href="https://nakuberneri.github.io/categories/jazz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zeta and the Catswing two tracks production</title>
-      <link>https://example.com/posts/jazz_zeta/</link>
+      <link>https://nakuberneri.github.io/posts/jazz_zeta/</link>
       <pubDate>Tue, 28 Jul 2020 12:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/jazz_zeta/</guid>
+      <guid>https://nakuberneri.github.io/posts/jazz_zeta/</guid>
       <description>&lt;p&gt;Recording, mixing and mastering for two tracks of the Zeta and the Catswing band&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Max Aguirre, Terco full album mix and mastering</title>
-      <link>https://example.com/posts/tango_maxaguirre/</link>
+      <link>https://nakuberneri.github.io/posts/tango_maxaguirre/</link>
       <pubDate>Fri, 24 Apr 2020 14:33:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/tango_maxaguirre/</guid>
+      <guid>https://nakuberneri.github.io/posts/tango_maxaguirre/</guid>
       <description>&lt;p&gt;Mixing and mastering for Max Aguirre tango album&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Carlos Cutaia album mastering</title>
-      <link>https://example.com/posts/jazz_cutaia/</link>
+      <link>https://nakuberneri.github.io/posts/jazz_cutaia/</link>
       <pubDate>Wed, 18 Dec 2019 12:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/jazz_cutaia/</guid>
+      <guid>https://nakuberneri.github.io/posts/jazz_cutaia/</guid>
       <description>&lt;p&gt;Recording, mixing and mastering for Carlos Cutaia&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Pasajero Luminoso track production</title>
-      <link>https://example.com/posts/jazz_pasajero/</link>
+      <link>https://nakuberneri.github.io/posts/jazz_pasajero/</link>
       <pubDate>Fri, 06 Dec 2019 12:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/jazz_pasajero/</guid>
+      <guid>https://nakuberneri.github.io/posts/jazz_pasajero/</guid>
       <description>&lt;p&gt;Recording, mixing and mastering and syths for Pasajero Luminoso band&lt;/p&gt;</description>
     </item>
     

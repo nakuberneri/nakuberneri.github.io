@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>funk on Naku Berneri Portfolio</title>
-    <link>https://example.com/tags/funk/</link>
+    <link>https://nakuberneri.github.io/tags/funk/</link>
     <description>Recent content in funk on Naku Berneri Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jun 2017 16:33:26 +0000</lastBuildDate><atom:link href="https://example.com/tags/funk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Jun 2017 16:33:26 +0000</lastBuildDate><atom:link href="https://nakuberneri.github.io/tags/funk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Paravara single mix</title>
-      <link>https://example.com/posts/funk_paravara/</link>
+      <link>https://nakuberneri.github.io/posts/funk_paravara/</link>
       <pubDate>Tue, 20 Jun 2017 16:33:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/funk_paravara/</guid>
+      <guid>https://nakuberneri.github.io/posts/funk_paravara/</guid>
       <description>&lt;p&gt;Recording, mixing and mastering for Paravará single release&lt;/p&gt;</description>
     </item>
     

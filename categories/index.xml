@@ -2,107 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Naku Berneri Portfolio</title>
-    <link>https://example.com/categories/</link>
+    <link>https://nakuberneri.github.io/categories/</link>
     <description>Recent content in Categories on Naku Berneri Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Jan 2021 14:33:26 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 14:33:26 +0000</lastBuildDate><atom:link href="https://nakuberneri.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OST</title>
-      <link>https://example.com/categories/ost/</link>
+      <link>https://nakuberneri.github.io/categories/ost/</link>
       <pubDate>Mon, 25 Jan 2021 14:33:26 +0000</pubDate>
       
-      <guid>https://example.com/categories/ost/</guid>
+      <guid>https://nakuberneri.github.io/categories/ost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>film</title>
-      <link>https://example.com/categories/film/</link>
+      <link>https://nakuberneri.github.io/categories/film/</link>
       <pubDate>Mon, 14 Dec 2020 16:33:26 +0000</pubDate>
       
-      <guid>https://example.com/categories/film/</guid>
+      <guid>https://nakuberneri.github.io/categories/film/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jazz</title>
-      <link>https://example.com/categories/jazz/</link>
+      <link>https://nakuberneri.github.io/categories/jazz/</link>
       <pubDate>Tue, 28 Jul 2020 12:13:26 +0000</pubDate>
       
-      <guid>https://example.com/categories/jazz/</guid>
+      <guid>https://nakuberneri.github.io/categories/jazz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Folk</title>
-      <link>https://example.com/categories/folk/</link>
+      <link>https://nakuberneri.github.io/categories/folk/</link>
       <pubDate>Sun, 26 Apr 2020 11:33:26 +0000</pubDate>
       
-      <guid>https://example.com/categories/folk/</guid>
+      <guid>https://nakuberneri.github.io/categories/folk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pop</title>
-      <link>https://example.com/categories/pop/</link>
-      <pubDate>Thu, 03 Oct 2019 16:13:26 +0000</pubDate>
+      <title>pop</title>
+      <link>https://nakuberneri.github.io/categories/pop/</link>
+      <pubDate>Sat, 23 Nov 2019 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/categories/pop/</guid>
+      <guid>https://nakuberneri.github.io/categories/pop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electronica</title>
-      <link>https://example.com/categories/electronica/</link>
+      <link>https://nakuberneri.github.io/categories/electronica/</link>
       <pubDate>Sat, 28 Sep 2019 14:33:26 +0000</pubDate>
       
-      <guid>https://example.com/categories/electronica/</guid>
+      <guid>https://nakuberneri.github.io/categories/electronica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metal</title>
-      <link>https://example.com/categories/metal/</link>
+      <link>https://nakuberneri.github.io/categories/metal/</link>
       <pubDate>Mon, 23 Sep 2019 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/categories/metal/</guid>
+      <guid>https://nakuberneri.github.io/categories/metal/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Rock</title>
-      <link>https://example.com/categories/rock/</link>
+      <title>rock</title>
+      <link>https://nakuberneri.github.io/categories/rock/</link>
       <pubDate>Mon, 23 Sep 2019 16:13:26 +0000</pubDate>
       
-      <guid>https://example.com/categories/rock/</guid>
+      <guid>https://nakuberneri.github.io/categories/rock/</guid>
       <description></description>
     </item>
     
     <item>
       <title>funk</title>
-      <link>https://example.com/categories/funk/</link>
+      <link>https://nakuberneri.github.io/categories/funk/</link>
       <pubDate>Tue, 20 Jun 2017 16:33:26 +0000</pubDate>
       
-      <guid>https://example.com/categories/funk/</guid>
+      <guid>https://nakuberneri.github.io/categories/funk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>trap</title>
-      <link>https://example.com/categories/trap/</link>
+      <link>https://nakuberneri.github.io/categories/trap/</link>
       <pubDate>Tue, 20 Jun 2017 16:33:26 +0000</pubDate>
       
-      <guid>https://example.com/categories/trap/</guid>
+      <guid>https://nakuberneri.github.io/categories/trap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Punk</title>
-      <link>https://example.com/categories/punk/</link>
-      <pubDate>Thu, 07 Aug 2014 16:13:26 +0000</pubDate>
+      <link>https://nakuberneri.github.io/categories/punk/</link>
+      <pubDate>Wed, 11 Nov 2015 16:33:26 +0000</pubDate>
       
-      <guid>https://example.com/categories/punk/</guid>
+      <guid>https://nakuberneri.github.io/categories/punk/</guid>
       <description></description>
     </item>
     

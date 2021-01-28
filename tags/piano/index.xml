@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>piano on Naku Berneri Portfolio</title>
-    <link>https://example.com/tags/piano/</link>
+    <link>https://nakuberneri.github.io/tags/piano/</link>
     <description>Recent content in piano on Naku Berneri Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Dec 2019 12:13:26 +0000</lastBuildDate><atom:link href="https://example.com/tags/piano/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Dec 2019 12:13:26 +0000</lastBuildDate><atom:link href="https://nakuberneri.github.io/tags/piano/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carlos Cutaia album mastering</title>
-      <link>https://example.com/posts/jazz_cutaia/</link>
+      <link>https://nakuberneri.github.io/posts/jazz_cutaia/</link>
       <pubDate>Wed, 18 Dec 2019 12:13:26 +0000</pubDate>
       
-      <guid>https://example.com/posts/jazz_cutaia/</guid>
+      <guid>https://nakuberneri.github.io/posts/jazz_cutaia/</guid>
       <description>&lt;p&gt;Recording, mixing and mastering for Carlos Cutaia&lt;/p&gt;</description>
     </item>
     
