@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jazz on Naku Berneri Portfolio</title>
+    <link>https://example.com/tags/jazz/</link>
+    <description>Recent content in jazz on Naku Berneri Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Jul 2020 12:13:26 +0000</lastBuildDate><atom:link href="https://example.com/tags/jazz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zeta and the Catswing two tracks production</title>
+      <link>https://example.com/posts/jazz_zeta/</link>
+      <pubDate>Tue, 28 Jul 2020 12:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/jazz_zeta/</guid>
+      <description>&lt;p&gt;Recording, mixing and mastering for two tracks of the Zeta and the Catswing band&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Carlos Cutaia album mastering</title>
+      <link>https://example.com/posts/jazz_cutaia/</link>
+      <pubDate>Wed, 18 Dec 2019 12:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/jazz_cutaia/</guid>
+      <description>&lt;p&gt;Recording, mixing and mastering for Carlos Cutaia&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pasajero Luminoso track production</title>
+      <link>https://example.com/posts/jazz_pasajero/</link>
+      <pubDate>Fri, 06 Dec 2019 12:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/jazz_pasajero/</guid>
+      <description>&lt;p&gt;Recording, mixing and mastering and syths for Pasajero Luminoso band&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

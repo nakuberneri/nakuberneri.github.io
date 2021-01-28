@@ -2,18 +2,595 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Naku Berneri Portfolio</title>
-    <link>https://nakuberneri.github.io/posts/</link>
+    <link>https://example.com/posts/</link>
     <description>Recent content in Posts on Naku Berneri Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Jan 2021 14:33:26 +0000</lastBuildDate><atom:link href="https://nakuberneri.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 14:33:26 +0000</lastBuildDate><atom:link href="https://example.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Implosion Movie OST scroing, production, mix and mastering</title>
-      <link>https://nakuberneri.github.io/posts/implosion/</link>
+      <link>https://example.com/posts/ost_implosion/</link>
       <pubDate>Mon, 25 Jan 2021 14:33:26 +0000</pubDate>
       
-      <guid>https://nakuberneri.github.io/posts/implosion/</guid>
+      <guid>https://example.com/posts/ost_implosion/</guid>
       <description>&lt;p&gt;Full movie OST scroing, production, mix and mastering for Implosión movie.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Iris OST full scoring production</title>
+      <link>https://example.com/posts/ost_iris/</link>
+      <pubDate>Mon, 14 Dec 2020 16:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/ost_iris/</guid>
+      <description>&lt;p&gt;Scoring, sound design, music production and mix for the cartoon series Iris. Eleven chapters full music &amp;amp; sound produced.&lt;/p&gt;
+&lt;p&gt;You can check some of the process and intro &lt;a href=&#34;https://www.youtube.com/watch?v=0hAler8Cy8U&amp;amp;list=PLf_p0gx-p_uz4ROMy-o4J651IRuiqUt45&#34;&gt;here&lt;/a&gt; or by clicking in the image&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zeta and the Catswing two tracks production</title>
+      <link>https://example.com/posts/jazz_zeta/</link>
+      <pubDate>Tue, 28 Jul 2020 12:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/jazz_zeta/</guid>
+      <description>&lt;p&gt;Recording, mixing and mastering for two tracks of the Zeta and the Catswing band&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sofia Viola and Perotá Chingó single mix and mastering</title>
+      <link>https://example.com/posts/folk_sofiaperota/</link>
+      <pubDate>Sun, 26 Apr 2020 11:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/folk_sofiaperota/</guid>
+      <description>&lt;p&gt;Single release for Sofia Viola and Perotá Chingó. I have recorded, mixed and mastered the track.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Max Aguirre, Terco full album mix and mastering</title>
+      <link>https://example.com/posts/tango_maxaguirre/</link>
+      <pubDate>Fri, 24 Apr 2020 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/tango_maxaguirre/</guid>
+      <description>&lt;p&gt;Mixing and mastering for Max Aguirre tango album&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Coro Qom Chelaalapi TV Broadcast recording, mixing and mastering</title>
+      <link>https://example.com/posts/folk_qom/</link>
+      <pubDate>Tue, 21 Jan 2020 11:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/folk_qom/</guid>
+      <description>&lt;p&gt;Recording, mixing and mastering for national TV broadcast of the native chorus Qom Chelaalapi&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Carlos Cutaia album mastering</title>
+      <link>https://example.com/posts/jazz_cutaia/</link>
+      <pubDate>Wed, 18 Dec 2019 12:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/jazz_cutaia/</guid>
+      <description>&lt;p&gt;Recording, mixing and mastering for Carlos Cutaia&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pasajero Luminoso track production</title>
+      <link>https://example.com/posts/jazz_pasajero/</link>
+      <pubDate>Fri, 06 Dec 2019 12:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/jazz_pasajero/</guid>
+      <description>&lt;p&gt;Recording, mixing and mastering and syths for Pasajero Luminoso band&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pao de Bonis eight singles production mix and mastering</title>
+      <link>https://example.com/posts/pop_debonis/</link>
+      <pubDate>Thu, 03 Oct 2019 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/pop_debonis/</guid>
+      <description>&lt;p&gt;I been working with Nicola Carrara producing, mixing and mastering eight tracks&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flora y Fauna full album mastering for Puente label</title>
+      <link>https://example.com/posts/folk_flora/</link>
+      <pubDate>Sat, 28 Sep 2019 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/folk_flora/</guid>
+      <description>&lt;p&gt;Full album mastering for Puente label&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>El Mal Humano single mix and mastering</title>
+      <link>https://example.com/posts/rock_malhumano/</link>
+      <pubDate>Mon, 23 Sep 2019 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_malhumano/</guid>
+      <description>&lt;p&gt;Single mix and mastering for the rock band El Mal Humano&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Luthero, 11 track groove metal LP</title>
+      <link>https://example.com/posts/metal_luthero/</link>
+      <pubDate>Mon, 23 Sep 2019 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/metal_luthero/</guid>
+      <description>&lt;p&gt;Eleven track groove metal recording, mixing and mastering for Luthero band&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Daniel Melero singles production</title>
+      <link>https://example.com/posts/elec_melero/</link>
+      <pubDate>Tue, 17 Sep 2019 12:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/elec_melero/</guid>
+      <description>&lt;p&gt;Two singles production, mix and mastering for Daniel Melero on 2020&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Anguil 5 track EP production, mix and mastering</title>
+      <link>https://example.com/posts/rock_anguil/</link>
+      <pubDate>Fri, 13 Sep 2019 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_anguil/</guid>
+      <description>&lt;p&gt;Full 5 track EP production for Anguil. I have recorded, mixed and mastered all the tracks.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Chango Spasiuk National Tv Live Broadcast</title>
+      <link>https://example.com/posts/folk_chango1/</link>
+      <pubDate>Thu, 27 Dec 2018 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/folk_chango1/</guid>
+      <description>&lt;p&gt;Full show mix and mastering for the Argentina National TV Broadcast&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pino Europeo - Full album mix and mastering</title>
+      <link>https://example.com/posts/folk_pino/</link>
+      <pubDate>Fri, 21 Dec 2018 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/folk_pino/</guid>
+      <description>&lt;p&gt;Full recording, mixing and mastering for Chancha Via Circuito and Chango Spasiuk first collab album.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Innersun Full Album Production</title>
+      <link>https://example.com/posts/punk_innersun/</link>
+      <pubDate>Fri, 02 Nov 2018 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/punk_innersun/</guid>
+      <description>&lt;p&gt;Full album production for Innersun. I have recorded, mixed and mastered the full album.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pushit 7 track full album production</title>
+      <link>https://example.com/posts/rock_pushit2/</link>
+      <pubDate>Tue, 23 Oct 2018 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_pushit2/</guid>
+      <description>&lt;p&gt;Full album production for Pushit. Produced, mixed and mastered by me&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Candela Redin full album recording, mixing and mastering.</title>
+      <link>https://example.com/posts/folk_anaiarska/</link>
+      <pubDate>Fri, 29 Jun 2018 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/folk_anaiarska/</guid>
+      <description>&lt;p&gt;Candela Redin firs album full mixing and mastering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rumbo Tumba full album recording, mixing and mastering</title>
+      <link>https://example.com/posts/folk_rumbotumba/</link>
+      <pubDate>Fri, 29 Jun 2018 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/folk_rumbotumba/</guid>
+      <description>&lt;p&gt;Rumbo Tumba full album recording mixing and mastering for Facundo Salgado&amp;rsquo;s first LP.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NOFT Single Production</title>
+      <link>https://example.com/posts/punk_noft/</link>
+      <pubDate>Tue, 26 Jun 2018 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/punk_noft/</guid>
+      <description>&lt;p&gt;Full single production for NOFT. I have recorded, mixed and mastered the track.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rey Manta EP recording, mix and mastering</title>
+      <link>https://example.com/posts/rock_reymanta/</link>
+      <pubDate>Sat, 23 Jun 2018 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_reymanta/</guid>
+      <description>&lt;p&gt;Some of the tracks of the Rey Manta EP that i produced, recorded and mixed&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ensamble Folklórico Digital</title>
+      <link>https://example.com/posts/folk_efd/</link>
+      <pubDate>Wed, 14 Feb 2018 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/folk_efd/</guid>
+      <description>&lt;p&gt;Ensamble Folklórico DIgital single release production, mix and mastering&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Tormentos, surf rock 12 track album</title>
+      <link>https://example.com/posts/rock_tormentos/</link>
+      <pubDate>Mon, 27 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_tormentos/</guid>
+      <description>&lt;p&gt;Twelve track surf rock album recorded in one take, full analog process.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Aminowana, reggae full album recording, mix and mastering</title>
+      <link>https://example.com/posts/reggae_aminowana/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/reggae_aminowana/</guid>
+      <description>&lt;p&gt;Album recording, mixing and mastering for Aminowana reggae band. You can hear the album &lt;a href=&#34;https://open.spotify.com/album/5aJRK3KSzSg17FrxGEycQm&#34;&gt;here&lt;/a&gt; or clicking in the image&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ampher full album recording, mixing and mastering</title>
+      <link>https://example.com/posts/metal_ampher/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/metal_ampher/</guid>
+      <description>&lt;p&gt;Album mix and mastering for the metal band Ampher&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bratva single mix and mastering</title>
+      <link>https://example.com/posts/rock_bratva/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_bratva/</guid>
+      <description>&lt;p&gt;Single mix and mastering for the rock band Bratva&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>El PCC nine track album mastering</title>
+      <link>https://example.com/posts/elec_pcc/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/elec_pcc/</guid>
+      <description>&lt;p&gt;Nine tracks album mastering for the electronic music live band El PCC. You can hear it &lt;a href=&#34;https://elpcc.bandcamp.com/album/guerra-tibia&#34;&gt;here&lt;/a&gt; or clicking on the image below&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Juli Papi six track album mix and mastering</title>
+      <link>https://example.com/posts/pop_julipapi/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/pop_julipapi/</guid>
+      <description>&lt;p&gt;Single mix and mastering for the pop singer Juli Papi, you can play it &lt;a href=&#34;https://www.youtube.com/watch?v=Eu_A3VDd--I&#34;&gt;here&lt;/a&gt; or just clicking the picture&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Microfeel full album analog mix</title>
+      <link>https://example.com/posts/elec_microfeel1/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/elec_microfeel1/</guid>
+      <description>&lt;p&gt;Full electronic experimental album 10 tracks analog mix for Microfeel. You can hear the &lt;a href=&#34;https://microfeel-sebastianseifert.bandcamp.com/album/autodrone&#34;&gt;full album here&lt;/a&gt; or you can just click in the image :)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Microfeel two tracks full production</title>
+      <link>https://example.com/posts/elec_microfeel2/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/elec_microfeel2/</guid>
+      <description>&lt;p&gt;Full electronic experimental tracks single on analog mix and mastering for Microfeel. You can hear and see the &lt;a href=&#34;https://microfeel-sebastianseifert.bandcamp.com/album/autodrone&#34;&gt;the track here&lt;/a&gt; or you can just click in the image :)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pikun single production, mix and mastering</title>
+      <link>https://example.com/posts/elec_pikun/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/elec_pikun/</guid>
+      <description>&lt;p&gt;Single production mix and mastering for Pikun&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Proyecto Silencioso full album mix and mastering</title>
+      <link>https://example.com/posts/elec_lencho/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/elec_lencho/</guid>
+      <description>&lt;p&gt;Five track album mix and mastering for Proyecto Silencioso&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Santiago Manrique 10 track full album production</title>
+      <link>https://example.com/posts/pop_santimanrique/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/pop_santimanrique/</guid>
+      <description>&lt;p&gt;Full album production for Santiago Manrique&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tony Monroe reggaeton track</title>
+      <link>https://example.com/posts/pop_tonymonroe/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/pop_tonymonroe/</guid>
+      <description>&lt;p&gt;Single production and mix for Tony Monroe reggaeton track&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Aire Libre full movie OST, music production and mix</title>
+      <link>https://example.com/posts/ost_airelibre/</link>
+      <pubDate>Thu, 21 Sep 2017 22:00:01 +0000</pubDate>
+      
+      <guid>https://example.com/posts/ost_airelibre/</guid>
+      <description>&lt;p&gt;Aire Libre full movie scoring and soundtrack&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alanis full movie OST, music production and mix</title>
+      <link>https://example.com/posts/ost_alanis/</link>
+      <pubDate>Thu, 21 Sep 2017 22:00:01 +0000</pubDate>
+      
+      <guid>https://example.com/posts/ost_alanis/</guid>
+      <description>&lt;p&gt;Scoring, production and mixing for the Alanis movie&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kali single mix and mastering</title>
+      <link>https://example.com/posts/metal_kali/</link>
+      <pubDate>Wed, 02 Aug 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/metal_kali/</guid>
+      <description>&lt;p&gt;Single mix and mastering for the metal band Kali&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kidd Demacy Trap Single Release</title>
+      <link>https://example.com/posts/trap_demacy/</link>
+      <pubDate>Tue, 20 Jun 2017 16:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/trap_demacy/</guid>
+      <description>&lt;p&gt;Production, recording, mixing and mastering for Kidd Demacy single release&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paravara single mix</title>
+      <link>https://example.com/posts/funk_paravara/</link>
+      <pubDate>Tue, 20 Jun 2017 16:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/funk_paravara/</guid>
+      <description>&lt;p&gt;Recording, mixing and mastering for Paravará single release&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Maderfanker 5 track EP</title>
+      <link>https://example.com/posts/rock_maderfanker/</link>
+      <pubDate>Thu, 23 Mar 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_maderfanker/</guid>
+      <description>&lt;p&gt;Five track production, recording and mixing for Maderfanker&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Las Cosas Invisibles 12 track album</title>
+      <link>https://example.com/posts/rock_lascosasinvis/</link>
+      <pubDate>Fri, 14 Oct 2016 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_lascosasinvis/</guid>
+      <description>&lt;p&gt;Full album recording, mixing and mastering. Full analog process.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Francisca y los Exploradores single mix and mastering</title>
+      <link>https://example.com/posts/rock_francisaca/</link>
+      <pubDate>Thu, 14 Jul 2016 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_francisaca/</guid>
+      <description>&lt;p&gt;Single recording mix and mastering for the indie rock band Francisaca y los Exploradores&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bandalos Chinos single mix and mastering</title>
+      <link>https://example.com/posts/pop_bandalos/</link>
+      <pubDate>Mon, 04 Jul 2016 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/pop_bandalos/</guid>
+      <description>&lt;p&gt;Single track recorded, mixed and mastered for the indie pop band Bandalos Chinos&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wini Wini EP album 4 tracks mastering</title>
+      <link>https://example.com/posts/pop_winiwini/</link>
+      <pubDate>Mon, 04 Jul 2016 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/pop_winiwini/</guid>
+      <description>Ok, this was very hard because Wini Wini had very rough recording from his over saturated devices but i got it working after some hard reconstruction work. You can hear the full work on Spotify here or you can just click on the image for it :)</description>
+    </item>
+    
+    <item>
+      <title>Daniel Melero album recording</title>
+      <link>https://example.com/posts/rock_melero/</link>
+      <pubDate>Fri, 03 Jun 2016 12:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_melero/</guid>
+      <description>&lt;p&gt;Album recording for Daniel Melero&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>No Te Mates EP full production</title>
+      <link>https://example.com/posts/rock_notemates/</link>
+      <pubDate>Fri, 03 Jun 2016 12:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_notemates/</guid>
+      <description>&lt;p&gt;Ep recording, mixing and mastering for No Te Mates&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Orkesta Popular San Bomba single release</title>
+      <link>https://example.com/posts/folk_sanbomba/</link>
+      <pubDate>Thu, 26 May 2016 17:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/folk_sanbomba/</guid>
+      <description>&lt;p&gt;Recording, mixing and mastering for the Orkesta Popular San Bomba&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>8 Track metal &#34;Against&#34; full album</title>
+      <link>https://example.com/posts/meta_against2/</link>
+      <pubDate>Mon, 22 Feb 2016 18:11:54 +0000</pubDate>
+      
+      <guid>https://example.com/posts/meta_against2/</guid>
+      <description>&lt;p&gt;Full album recording, mixing and mastering for Against metal band.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Jeites single mix</title>
+      <link>https://example.com/posts/folk_jeites/</link>
+      <pubDate>Wed, 11 Nov 2015 16:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/folk_jeites/</guid>
+      <description>&lt;p&gt;Recording, mixing and mastering for Jeites single releas&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>BAK 9 track album recording and mixing</title>
+      <link>https://example.com/posts/rock_bak/</link>
+      <pubDate>Thu, 01 Oct 2015 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_bak/</guid>
+      <description>&lt;p&gt;Nine track album recording and analog for the rock band Buenos Aires Karma&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Barda Gruta EP mix and mastering</title>
+      <link>https://example.com/posts/elec_barda/</link>
+      <pubDate>Mon, 28 Sep 2015 10:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/elec_barda/</guid>
+      <description>&lt;p&gt;Barda EP mix and mastering for Fertil Discos&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pushit full album production</title>
+      <link>https://example.com/posts/rock_pushit/</link>
+      <pubDate>Sun, 23 Aug 2015 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_pushit/</guid>
+      <description>&lt;p&gt;Full album production for Pushit rockband. Produced, mixed and mastered by me&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nique Legarreta full album</title>
+      <link>https://example.com/posts/rock_nique/</link>
+      <pubDate>Sun, 16 Aug 2015 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_nique/</guid>
+      <description>&lt;p&gt;Full album recording, mixing and mastering for Enrique Legarreta y los Leones de la Suerte&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Leitmotiv single production, mix and mastering</title>
+      <link>https://example.com/posts/pop_leitmotiv/</link>
+      <pubDate>Mon, 09 Mar 2015 18:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/pop_leitmotiv/</guid>
+      <description>&lt;p&gt;Single production, mix and mastering for the pop band Leitmotiv&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pop singer Emmanez 11 track full album production</title>
+      <link>https://example.com/posts/pop-emmanez/</link>
+      <pubDate>Sun, 23 Nov 2014 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/pop-emmanez/</guid>
+      <description>&lt;p&gt;Album production, arregments and mixing for Emmanez&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>9 Track metal &#34;Against&#34; full album</title>
+      <link>https://example.com/posts/meta_against1/</link>
+      <pubDate>Tue, 30 Sep 2014 12:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/meta_against1/</guid>
+      <description>&lt;p&gt;Full album recording, mixing and mastering for Against metal band.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stated, 12 track pop punk album</title>
+      <link>https://example.com/posts/punk_stated/</link>
+      <pubDate>Thu, 07 Aug 2014 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/punk_stated/</guid>
+      <description>&lt;p&gt;12 track pop punk style album production, recording mix and mastering&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sobremesa con el Dos // album mix and mastering</title>
+      <link>https://example.com/posts/rock_sobremesa/</link>
+      <pubDate>Thu, 12 Jun 2014 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_sobremesa/</guid>
+      <description>&lt;p&gt;LP mixing and mastering on the Sobremesa con el Dos album for Geiser Label&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sobrenadar album mastering</title>
+      <link>https://example.com/posts/pop_sobrenadar/</link>
+      <pubDate>Fri, 14 Feb 2014 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/pop_sobrenadar/</guid>
+      <description>&lt;p&gt;Full album mastering for Sobrenadar LP, Casa del Punte Label&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NQC 12 track LP production, mix and mastering</title>
+      <link>https://example.com/posts/punk_nqc_erqhli/</link>
+      <pubDate>Sun, 26 Aug 2012 12:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/punk_nqc_erqhli/</guid>
+      <description>&lt;p&gt;Full 12 track LP production for NQC. I have recorded, mixed and mastered all the tracks.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bruthal 6 full album recording mix and mastering</title>
+      <link>https://example.com/posts/meta_augenblick/</link>
+      <pubDate>Sun, 26 Jun 2011 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/meta_augenblick/</guid>
+      <description>&lt;p&gt;Full album recording, mixing and mastering for Bruthal 6.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>NQC 10 track LP mix and mastering</title>
+      <link>https://example.com/posts/punk_nqc_1ero/</link>
+      <pubDate>Sun, 05 Dec 2010 12:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/punk_nqc_1ero/</guid>
+      <description>&lt;p&gt;Full 10 track LP mix and master for punk rock band NQC.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Venecianos full 10 track album production</title>
+      <link>https://example.com/posts/rock_venecianos1/</link>
+      <pubDate>Wed, 10 Nov 2010 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/rock_venecianos1/</guid>
+      <description>&lt;p&gt;Ten track full album recording, mixing and mastering for Venecianos&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Negusa, single mix and mastering</title>
+      <link>https://example.com/posts/reggae_negusa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/reggae_negusa/</guid>
+      <description>&lt;p&gt;Single mix and mastering for the reggae band Negusa. You can hear the album &lt;a href=&#34;https://www.youtube.com/watch?v=PPTj3EEhY_Y&#34;&gt;here&lt;/a&gt; or clicking in the image&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -4,14 +4,496 @@
   
   <url>
     <loc>https://example.com/categories/</loc>
+    <lastmod>2021-01-25T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/film/</loc>
+    <lastmod>2021-01-25T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/ost_implosion/</loc>
+    <lastmod>2021-01-25T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/movies/</loc>
+    <lastmod>2021-01-25T14:33:26+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/</loc>
+    <lastmod>2021-01-25T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/ost/</loc>
+    <lastmod>2021-01-25T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2021-01-25T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/scoring/</loc>
+    <lastmod>2021-01-25T14:33:26+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://example.com/tags/</loc>
+    <lastmod>2021-01-25T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/best/</loc>
+    <lastmod>2020-12-14T16:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/film/</loc>
+    <lastmod>2020-12-14T16:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/ost_iris/</loc>
+    <lastmod>2020-12-14T16:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/jazz/</loc>
+    <lastmod>2020-07-28T12:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/jazz/</loc>
+    <lastmod>2020-07-28T12:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/live/</loc>
+    <lastmod>2020-07-28T12:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/jazz_zeta/</loc>
+    <lastmod>2020-07-28T12:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/folk/</loc>
+    <lastmod>2020-04-26T11:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/folk/</loc>
+    <lastmod>2020-04-26T11:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/folk_sofiaperota/</loc>
+    <lastmod>2020-04-26T11:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/tango_maxaguirre/</loc>
+    <lastmod>2020-04-24T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/tango/</loc>
+    <lastmod>2020-04-24T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/folk_qom/</loc>
+    <lastmod>2020-01-21T11:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/mastering/</loc>
+    <lastmod>2020-01-21T11:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/jazz_cutaia/</loc>
+    <lastmod>2019-12-18T12:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/piano/</loc>
+    <lastmod>2019-12-18T12:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/jazz_pasajero/</loc>
+    <lastmod>2019-12-06T12:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/pop_debonis/</loc>
+    <lastmod>2019-10-03T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/pop/</loc>
+    <lastmod>2019-10-03T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/pop/</loc>
+    <lastmod>2019-10-03T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/electronica/</loc>
+    <lastmod>2019-09-28T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/electronica/</loc>
+    <lastmod>2019-09-28T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/folk_flora/</loc>
+    <lastmod>2019-09-28T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_malhumano/</loc>
+    <lastmod>2019-09-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/metal_luthero/</loc>
+    <lastmod>2019-09-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/metal/</loc>
+    <lastmod>2019-09-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/metal/</loc>
+    <lastmod>2019-09-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/rock/</loc>
+    <lastmod>2019-09-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/rock/</loc>
+    <lastmod>2019-09-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/elec_melero/</loc>
+    <lastmod>2019-09-17T12:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_anguil/</loc>
+    <lastmod>2019-09-13T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/mix/</loc>
+    <lastmod>2019-09-13T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/folk_chango1/</loc>
+    <lastmod>2018-12-27T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/folk_pino/</loc>
+    <lastmod>2018-12-21T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/punk_innersun/</loc>
+    <lastmod>2018-11-02T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/punk/</loc>
+    <lastmod>2018-11-02T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_pushit2/</loc>
+    <lastmod>2018-10-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/folk_anaiarska/</loc>
+    <lastmod>2018-06-29T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/folk_rumbotumba/</loc>
+    <lastmod>2018-06-29T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/punk_noft/</loc>
+    <lastmod>2018-06-26T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_reymanta/</loc>
+    <lastmod>2018-06-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/folk_efd/</loc>
+    <lastmod>2018-02-14T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_tormentos/</loc>
+    <lastmod>2017-11-27T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/reggae_aminowana/</loc>
+    <lastmod>2017-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/metal_ampher/</loc>
+    <lastmod>2017-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_bratva/</loc>
+    <lastmod>2017-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/elec_pcc/</loc>
+    <lastmod>2017-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/pop_julipapi/</loc>
+    <lastmod>2017-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/elec_microfeel1/</loc>
+    <lastmod>2017-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/elec_microfeel2/</loc>
+    <lastmod>2017-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/elec_pikun/</loc>
+    <lastmod>2017-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/elec_lencho/</loc>
+    <lastmod>2017-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/reggae/</loc>
+    <lastmod>2017-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/pop_santimanrique/</loc>
+    <lastmod>2017-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/pop_tonymonroe/</loc>
+    <lastmod>2017-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/ost_airelibre/</loc>
+    <lastmod>2017-09-21T22:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/ost_alanis/</loc>
+    <lastmod>2017-09-21T22:00:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/metal_kali/</loc>
+    <lastmod>2017-08-02T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/funk/</loc>
+    <lastmod>2017-06-20T16:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/funk/</loc>
+    <lastmod>2017-06-20T16:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/trap_demacy/</loc>
+    <lastmod>2017-06-20T16:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/funk_paravara/</loc>
+    <lastmod>2017-06-20T16:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/trap/</loc>
+    <lastmod>2017-06-20T16:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/trap/</loc>
+    <lastmod>2017-06-20T16:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_maderfanker/</loc>
+    <lastmod>2017-03-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_lascosasinvis/</loc>
+    <lastmod>2016-10-14T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_francisaca/</loc>
+    <lastmod>2016-07-14T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/pop_bandalos/</loc>
+    <lastmod>2016-07-04T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/pop_winiwini/</loc>
+    <lastmod>2016-07-04T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_melero/</loc>
+    <lastmod>2016-06-03T12:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_notemates/</loc>
+    <lastmod>2016-06-03T12:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/folk_sanbomba/</loc>
+    <lastmod>2016-05-26T17:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/meta_against2/</loc>
+    <lastmod>2016-02-22T18:11:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/folk_jeites/</loc>
+    <lastmod>2015-11-11T16:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_bak/</loc>
+    <lastmod>2015-10-01T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/elec_barda/</loc>
+    <lastmod>2015-09-28T10:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_pushit/</loc>
+    <lastmod>2015-08-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_nique/</loc>
+    <lastmod>2015-08-16T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/pop_leitmotiv/</loc>
+    <lastmod>2015-03-09T18:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/pop-emmanez/</loc>
+    <lastmod>2014-11-23T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/meta_against1/</loc>
+    <lastmod>2014-09-30T12:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/punk/</loc>
+    <lastmod>2014-08-07T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/punk_stated/</loc>
+    <lastmod>2014-08-07T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_sobremesa/</loc>
+    <lastmod>2014-06-12T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/pop_sobrenadar/</loc>
+    <lastmod>2014-02-14T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/punk_nqc_erqhli/</loc>
+    <lastmod>2012-08-26T12:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/meta_augenblick/</loc>
+    <lastmod>2011-06-26T14:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/punk_nqc_1ero/</loc>
+    <lastmod>2010-12-05T12:33:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/rock_venecianos1/</loc>
+    <lastmod>2010-11-10T16:13:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/reggae_negusa/</loc>
   </url>
   
 </urlset>

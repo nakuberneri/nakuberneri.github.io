@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>film on Naku Berneri Portfolio</title>
+    <link>https://example.com/tags/film/</link>
+    <description>Recent content in film on Naku Berneri Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jan 2021 14:33:26 +0000</lastBuildDate><atom:link href="https://example.com/tags/film/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implosion Movie OST scroing, production, mix and mastering</title>
+      <link>https://example.com/posts/ost_implosion/</link>
+      <pubDate>Mon, 25 Jan 2021 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/ost_implosion/</guid>
+      <description>&lt;p&gt;Full movie OST scroing, production, mix and mastering for Implosión movie.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Iris OST full scoring production</title>
+      <link>https://example.com/posts/ost_iris/</link>
+      <pubDate>Mon, 14 Dec 2020 16:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/ost_iris/</guid>
+      <description>&lt;p&gt;Scoring, sound design, music production and mix for the cartoon series Iris. Eleven chapters full music &amp;amp; sound produced.&lt;/p&gt;
+&lt;p&gt;You can check some of the process and intro &lt;a href=&#34;https://www.youtube.com/watch?v=0hAler8Cy8U&amp;amp;list=PLf_p0gx-p_uz4ROMy-o4J651IRuiqUt45&#34;&gt;here&lt;/a&gt; or by clicking in the image&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Aire Libre full movie OST, music production and mix</title>
+      <link>https://example.com/posts/ost_airelibre/</link>
+      <pubDate>Thu, 21 Sep 2017 22:00:01 +0000</pubDate>
+      
+      <guid>https://example.com/posts/ost_airelibre/</guid>
+      <description>&lt;p&gt;Aire Libre full movie scoring and soundtrack&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Alanis full movie OST, music production and mix</title>
+      <link>https://example.com/posts/ost_alanis/</link>
+      <pubDate>Thu, 21 Sep 2017 22:00:01 +0000</pubDate>
+      
+      <guid>https://example.com/posts/ost_alanis/</guid>
+      <description>&lt;p&gt;Scoring, production and mixing for the Alanis movie&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

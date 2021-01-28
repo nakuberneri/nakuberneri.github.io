@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reggae on Naku Berneri Portfolio</title>
+    <link>https://example.com/tags/reggae/</link>
+    <description>Recent content in reggae on Naku Berneri Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Nov 2017 16:13:26 +0000</lastBuildDate><atom:link href="https://example.com/tags/reggae/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aminowana, reggae full album recording, mix and mastering</title>
+      <link>https://example.com/posts/reggae_aminowana/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/posts/reggae_aminowana/</guid>
+      <description>&lt;p&gt;Album recording, mixing and mastering for Aminowana reggae band. You can hear the album &lt;a href=&#34;https://open.spotify.com/album/5aJRK3KSzSg17FrxGEycQm&#34;&gt;here&lt;/a&gt; or clicking in the image&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Negusa, single mix and mastering</title>
+      <link>https://example.com/posts/reggae_negusa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/reggae_negusa/</guid>
+      <description>&lt;p&gt;Single mix and mastering for the reggae band Negusa. You can hear the album &lt;a href=&#34;https://www.youtube.com/watch?v=PPTj3EEhY_Y&#34;&gt;here&lt;/a&gt; or clicking in the image&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

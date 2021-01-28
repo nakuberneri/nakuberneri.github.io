@@ -5,6 +5,178 @@
     <link>https://example.com/tags/</link>
     <description>Recent content in Tags on Naku Berneri Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Jan 2021 14:33:26 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>film</title>
+      <link>https://example.com/tags/film/</link>
+      <pubDate>Mon, 25 Jan 2021 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/film/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>movies</title>
+      <link>https://example.com/tags/movies/</link>
+      <pubDate>Mon, 25 Jan 2021 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/movies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scoring</title>
+      <link>https://example.com/tags/scoring/</link>
+      <pubDate>Mon, 25 Jan 2021 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/scoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>best</title>
+      <link>https://example.com/tags/best/</link>
+      <pubDate>Mon, 14 Dec 2020 16:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/best/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jazz</title>
+      <link>https://example.com/tags/jazz/</link>
+      <pubDate>Tue, 28 Jul 2020 12:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/jazz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>live</title>
+      <link>https://example.com/tags/live/</link>
+      <pubDate>Tue, 28 Jul 2020 12:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>folk</title>
+      <link>https://example.com/tags/folk/</link>
+      <pubDate>Sun, 26 Apr 2020 11:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/folk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tango</title>
+      <link>https://example.com/tags/tango/</link>
+      <pubDate>Fri, 24 Apr 2020 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/tango/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mastering</title>
+      <link>https://example.com/tags/mastering/</link>
+      <pubDate>Tue, 21 Jan 2020 11:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/mastering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>piano</title>
+      <link>https://example.com/tags/piano/</link>
+      <pubDate>Wed, 18 Dec 2019 12:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/piano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pop</title>
+      <link>https://example.com/tags/pop/</link>
+      <pubDate>Thu, 03 Oct 2019 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/pop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>electronica</title>
+      <link>https://example.com/tags/electronica/</link>
+      <pubDate>Sat, 28 Sep 2019 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/electronica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>metal</title>
+      <link>https://example.com/tags/metal/</link>
+      <pubDate>Mon, 23 Sep 2019 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/metal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rock</title>
+      <link>https://example.com/tags/rock/</link>
+      <pubDate>Mon, 23 Sep 2019 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/rock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mix</title>
+      <link>https://example.com/tags/mix/</link>
+      <pubDate>Fri, 13 Sep 2019 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/mix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>punk</title>
+      <link>https://example.com/tags/punk/</link>
+      <pubDate>Fri, 02 Nov 2018 14:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/punk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reggae</title>
+      <link>https://example.com/tags/reggae/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/reggae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>funk</title>
+      <link>https://example.com/tags/funk/</link>
+      <pubDate>Tue, 20 Jun 2017 16:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/funk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trap</title>
+      <link>https://example.com/tags/trap/</link>
+      <pubDate>Tue, 20 Jun 2017 16:33:26 +0000</pubDate>
+      
+      <guid>https://example.com/tags/trap/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
