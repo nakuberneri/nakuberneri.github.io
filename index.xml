@@ -2,19 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Naku Berneri Portfolio</title>
-    <link>https://nakuberneri.github.io/</link>
+    <link>https://example.com/</link>
     <description>Recent content on Naku Berneri Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 25 Jan 2021 14:33:26 +0000</lastBuildDate><atom:link href="https://nakuberneri.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Implosion Movie OST scroing, production, mix and mastering</title>
-      <link>https://nakuberneri.github.io/posts/implosion/</link>
-      <pubDate>Mon, 25 Jan 2021 14:33:26 +0000</pubDate>
-      
-      <guid>https://nakuberneri.github.io/posts/implosion/</guid>
-      <description>&lt;p&gt;Full movie OST scroing, production, mix and mastering for Implosión movie.&lt;/p&gt;</description>
-    </item>
-    
+    <language>en</language><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
