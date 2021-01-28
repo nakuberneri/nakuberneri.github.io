@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ad on Naku Berneri Portfolio</title>
+    <link>https://nakuberneri.github.io/categories/ad/</link>
+    <description>Recent content in ad on Naku Berneri Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Dec 2016 13:01:01 +0000</lastBuildDate><atom:link href="https://nakuberneri.github.io/categories/ad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Autor Ad music &amp; sound design</title>
+      <link>https://nakuberneri.github.io/posts/ad_autor1/</link>
+      <pubDate>Tue, 06 Dec 2016 13:01:01 +0000</pubDate>
+      
+      <guid>https://nakuberneri.github.io/posts/ad_autor1/</guid>
+      <description>&lt;p&gt;Ad music scoring, sound desing, production and mix for Autor paper rims&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Sedal Ad, Lali Sposito</title>
+      <link>https://nakuberneri.github.io/posts/ad_lalisedal/</link>
+      <pubDate>Tue, 06 Dec 2016 13:01:01 +0000</pubDate>
+      
+      <guid>https://nakuberneri.github.io/posts/ad_lalisedal/</guid>
+      <description>&lt;p&gt;Ad music scoring, sound desing, production and mix for Sedal Shampoo&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

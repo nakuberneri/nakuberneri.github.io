@@ -17,24 +17,6 @@
     </item>
     
     <item>
-      <title>movies</title>
-      <link>https://nakuberneri.github.io/tags/movies/</link>
-      <pubDate>Mon, 25 Jan 2021 14:33:26 +0000</pubDate>
-      
-      <guid>https://nakuberneri.github.io/tags/movies/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>scoring</title>
-      <link>https://nakuberneri.github.io/tags/scoring/</link>
-      <pubDate>Mon, 25 Jan 2021 14:33:26 +0000</pubDate>
-      
-      <guid>https://nakuberneri.github.io/tags/scoring/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>best</title>
       <link>https://nakuberneri.github.io/tags/best/</link>
       <pubDate>Mon, 14 Dec 2020 16:33:26 +0000</pubDate>
@@ -76,15 +58,6 @@
       <pubDate>Fri, 24 Apr 2020 14:33:26 +0000</pubDate>
       
       <guid>https://nakuberneri.github.io/tags/tango/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mastering</title>
-      <link>https://nakuberneri.github.io/tags/mastering/</link>
-      <pubDate>Tue, 21 Jan 2020 11:33:26 +0000</pubDate>
-      
-      <guid>https://nakuberneri.github.io/tags/mastering/</guid>
       <description></description>
     </item>
     
@@ -134,15 +107,6 @@
     </item>
     
     <item>
-      <title>mix</title>
-      <link>https://nakuberneri.github.io/tags/mix/</link>
-      <pubDate>Fri, 13 Sep 2019 14:33:26 +0000</pubDate>
-      
-      <guid>https://nakuberneri.github.io/tags/mix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>punk</title>
       <link>https://nakuberneri.github.io/tags/punk/</link>
       <pubDate>Fri, 02 Nov 2018 14:33:26 +0000</pubDate>
@@ -161,6 +125,15 @@
     </item>
     
     <item>
+      <title>trap</title>
+      <link>https://nakuberneri.github.io/tags/trap/</link>
+      <pubDate>Thu, 23 Nov 2017 16:13:26 +0000</pubDate>
+      
+      <guid>https://nakuberneri.github.io/tags/trap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>funk</title>
       <link>https://nakuberneri.github.io/tags/funk/</link>
       <pubDate>Tue, 20 Jun 2017 16:33:26 +0000</pubDate>
@@ -170,11 +143,11 @@
     </item>
     
     <item>
-      <title>trap</title>
-      <link>https://nakuberneri.github.io/tags/trap/</link>
-      <pubDate>Tue, 20 Jun 2017 16:33:26 +0000</pubDate>
+      <title>ad</title>
+      <link>https://nakuberneri.github.io/tags/ad/</link>
+      <pubDate>Tue, 06 Dec 2016 13:01:01 +0000</pubDate>
       
-      <guid>https://nakuberneri.github.io/tags/trap/</guid>
+      <guid>https://nakuberneri.github.io/tags/ad/</guid>
       <description></description>
     </item>
     
